@@ -6,5 +6,8 @@ public class Sample {
         return "Hello TDD BootCamp!";
     }
 
+    public void insert(int i) {
+
+    }
 }
 
